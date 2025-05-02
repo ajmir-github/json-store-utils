@@ -1,4 +1,4 @@
-# 🔐 DataStore System
+# 🔐 DataStore System V2
 
 A lightweight TypeScript utility to persist data in the filesystem with support for:
 
